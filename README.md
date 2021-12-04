@@ -1,2 +1,4 @@
 # omdena-energyhub
-repo for omdena enerhu hub project
+repo for omdena energyhub project
+
+
